@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    color: white;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.41b4_W0SEmP9PYNESLgbBQHaEK%26pid%3DApi&f=1);
+    background-size: cover;
+}
+main {
+    color: black;
+    padding-bottom: 20px;
+    border-bottom: 1px solid blue;
+}
+h2{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 50px;
+}
+.prima {
+    border-bottom: 1px solid blue;
+    margin-bottom: 20px;
+}
+.terza {
+    border-bottom: 1px solid blue;
+    margin-bottom: 20px;
+}
+
+.terza p {
+    margin: 20px 0;
+    font-size: 25px;
+}
+span{
+    background-color: orange;
+    border-radius: 50%;
+    padding: 5px;
+}
+.riga1 {
+    border: 2px solid black;
+    background-color: lightblue;
+    padding: 5px;
+}
+.riga1 input, .riga1 p{
+    display: inline-block;
+}
+.riga1.bgwhite {
+    background-color: white;
+}
+
+footer {
+    margin-top: 5px;
+    text-align: center;
+}
+h1{
+    display: inline;
+    font-family: 'Bitter', serif;
+}
+footer p {
+    margin-left: 2px;
+    display: inline;
+}
